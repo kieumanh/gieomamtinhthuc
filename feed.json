@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gieo mầm tỉnh thức",
+    "description": "",
+    "home_page_url": "https://gieomamtinhthuc.com",
+    "feed_url": "https://gieomamtinhthuc.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kiều Mạnh"
+    },
+    "items": [
+    ]
+}
