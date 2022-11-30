@@ -5,13 +5,14 @@
     "home_page_url": "https://gieomamtinhthuc.com",
     "feed_url": "https://gieomamtinhthuc.com/feed.json",
     "user_comment": "",
+    "icon": "https://gieomamtinhthuc.com/media/website/Logo-Thien-Tu-Nhien-png-3.png",
     "author": {
         "name": "Kiều Mạnh"
     },
     "items": [
         {
-            "id": "https://gieomamtinhthuc.com/gioi-thieu-tac-gia.html",
-            "url": "https://gieomamtinhthuc.com/gioi-thieu-tac-gia.html",
+            "id": "https://gieomamtinhthuc.com/gioi-thieu-tac-gia/",
+            "url": "https://gieomamtinhthuc.com/gioi-thieu-tac-gia/",
             "title": "Giới thiệu tác giả",
             "author": {
                 "name": "Kiều Mạnh"
