@@ -11,16 +11,17 @@
     },
     "items": [
         {
-            "id": "https://gieomamtinhthuc.com/gioi-thieu-tac-gia/",
-            "url": "https://gieomamtinhthuc.com/gioi-thieu-tac-gia/",
-            "title": "Giới thiệu tác giả",
+            "id": "https://gieomamtinhthuc.com/gioi-thieu-du-an/",
+            "url": "https://gieomamtinhthuc.com/gioi-thieu-du-an/",
+            "title": "Giới thiệu dự án",
             "author": {
                 "name": "Kiều Mạnh"
             },
             "tags": [
+                   "giới thiệu"
             ],
             "date_published": "2022-11-30T10:31:53+07:00",
-            "date_modified": "2022-11-30T10:31:53+07:00"
+            "date_modified": "2022-11-30T20:18:01+07:00"
         }
     ]
 }

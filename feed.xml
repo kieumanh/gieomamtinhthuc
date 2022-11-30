@@ -3,21 +3,22 @@
     <title>Gieo mầm tỉnh thức</title>
     <link href="https://gieomamtinhthuc.com/feed.xml" rel="self" />
     <link href="https://gieomamtinhthuc.com" />
-    <updated>2022-11-30T10:31:53+07:00</updated>
+    <updated>2022-11-30T20:18:01+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
     <id>https://gieomamtinhthuc.com</id>
 
     <entry>
-        <title>Giới thiệu tác giả</title>
+        <title>Giới thiệu dự án</title>
         <author>
             <name>Kiều Mạnh</name>
         </author>
-        <link href="https://gieomamtinhthuc.com/gioi-thieu-tac-gia/"/>
-        <id>https://gieomamtinhthuc.com/gioi-thieu-tac-gia/</id>
+        <link href="https://gieomamtinhthuc.com/gioi-thieu-du-an/"/>
+        <id>https://gieomamtinhthuc.com/gioi-thieu-du-an/</id>
+            <category term="giới thiệu"/>
 
-        <updated>2022-11-30T10:31:53+07:00</updated>
+        <updated>2022-11-30T20:18:01+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
