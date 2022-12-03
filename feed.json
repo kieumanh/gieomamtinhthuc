@@ -54,8 +54,7 @@
             "id": "https://gieomamtinhthuc.com/gioi-thieu-du-an/",
             "url": "https://gieomamtinhthuc.com/gioi-thieu-du-an/",
             "title": "Giới thiệu dự án",
-            "summary": "Suitable for all kinds of personal blogs, journal, story and other related projects, with an emphasis on design and typography.",
-            "content_html": "<p class=\"dropcap\">Suitable for all kinds of personal blogs, journal, story and other related projects, with an emphasis on design and typography. Lorem ipsum dolor sit amet, usu id nonumes vulputate, ne sed inermis adolescens. Vis aliquam fabulas neglegentur et. Te nam diam quodsi, veri adhuc patrioque ad eum. </p>\n<p>Atqui putent patrioque qui id, duo mutat accusata moderatius cu, ne elitr oratio eos. Qui ut quem altera impedit. An duo <a href=\"https://demo.getpublii.eu/themes/editorial/brown/blogger-theme-with-a-beautiful-design-and-pro-typography/\">solum partem</a> mollis, in vidit philosophia eam, eos legimus recteque honestatis et. Iudicabit incorrupte an quo, expetendis assueverit in eum, qui te alia homero. Id pri novum perfecto, essent accommodare reprehendunt est et. Ne everti mentitum vel, vis ut graece discere offendit. Est tempor fabellas dissentiunt an, purto choro tamquam eum eu.</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://gieomamtinhthuc.com/media/posts/1/Hoang-Tan.jpg\" alt=\"Tân\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://gieomamtinhthuc.com/media/posts/1/responsive/Hoang-Tan-xs.jpg 384w ,https://gieomamtinhthuc.com/media/posts/1/responsive/Hoang-Tan-sm.jpg 600w ,https://gieomamtinhthuc.com/media/posts/1/responsive/Hoang-Tan-md.jpg 768w ,https://gieomamtinhthuc.com/media/posts/1/responsive/Hoang-Tan-lg.jpg 1200w\"></figure>",
+            "content_html": "<p class=\"dropcap\"> </p>\n<p> </p>",
             "author": {
                 "name": "Kiều Mạnh"
             },
@@ -63,7 +62,7 @@
                    "giới thiệu"
             ],
             "date_published": "2022-11-30T10:31:53+07:00",
-            "date_modified": "2022-12-03T10:53:30+07:00"
+            "date_modified": "2022-12-03T22:18:10+07:00"
         }
     ]
 }
