@@ -25,44 +25,6 @@
             ],
             "date_published": "2022-12-03T14:01:44+07:00",
             "date_modified": "2022-12-03T18:09:05+07:00"
-        },
-        {
-            "id": "https://gieomamtinhthuc.com/ve-chung-toi/",
-            "url": "https://gieomamtinhthuc.com/ve-chung-toi/",
-            "title": "Về chúng tôi",
-            "author": {
-                "name": "Kiều Mạnh"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-02T20:58:20+07:00",
-            "date_modified": "2022-12-02T20:58:20+07:00"
-        },
-        {
-            "id": "https://gieomamtinhthuc.com/gioi-thieu-tac-gia/",
-            "url": "https://gieomamtinhthuc.com/gioi-thieu-tac-gia/",
-            "title": "Giới thiệu tác giả",
-            "author": {
-                "name": "Kiều Mạnh"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-02T20:58:08+07:00",
-            "date_modified": "2022-12-02T20:58:08+07:00"
-        },
-        {
-            "id": "https://gieomamtinhthuc.com/gioi-thieu-du-an/",
-            "url": "https://gieomamtinhthuc.com/gioi-thieu-du-an/",
-            "title": "Giới thiệu dự án",
-            "content_html": "<p class=\"dropcap\"> </p>\n<p> </p>",
-            "author": {
-                "name": "Kiều Mạnh"
-            },
-            "tags": [
-                   "giới thiệu"
-            ],
-            "date_published": "2022-11-30T10:31:53+07:00",
-            "date_modified": "2022-12-03T22:18:10+07:00"
         }
     ]
 }
