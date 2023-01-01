@@ -3,7 +3,7 @@
     <title>Gieo mầm tỉnh thức</title>
     <link href="https://gieomamtinhthuc.com/feed.xml" rel="self" />
     <link href="https://gieomamtinhthuc.com" />
-    <updated>2023-01-01T18:28:01+07:00</updated>
+    <updated>2023-01-01T18:31:24+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://gieomamtinhthuc.com/quy-trong-rung/"/>
         <id>https://gieomamtinhthuc.com/quy-trong-rung/</id>
+        <media:content url="https://gieomamtinhthuc.com/media/posts/7/hands-1838658_1920-modified.png" medium="image" />
             <category term="Giới thiệu"/>
 
-        <updated>2023-01-01T18:28:01+07:00</updated>
+        <updated>2023-01-01T18:31:24+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://gieomamtinhthuc.com/media/posts/7/hands-1838658_1920-modified.png" alt="Quỹ trồng cây" />
                     Chào bạn 👋 Từ nhỏ mình đã rất yêu thích màu xanh từ thực vật cây cối tự nhiên. Ở&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://gieomamtinhthuc.com/media/posts/7/hands-1838658_1920-modified.png" class="type:primaryImage" alt="Quỹ trồng cây" /></p>
                 <p> </p>
 <p>Chào bạn 👋</p>
 <p>Từ nhỏ mình đã rất yêu thích màu xanh từ thực vật cây cối tự nhiên.</p>
